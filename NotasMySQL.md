@@ -1,4 +1,7 @@
-### Tipos de comandos en SQL
+# SQL: Structured Query Language
+    - Lenguaje de programación -> gestionar y manipular bases de datos relacionales
+
+## Tipos de comandos en SQL
 
     1. DDL (Data Definition Language)
         - CREATE : crear bases de datos
