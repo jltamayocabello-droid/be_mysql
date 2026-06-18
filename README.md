@@ -17,3 +17,11 @@ Práctica en MySQL parte del curso Backend Developer
         - TCL (Transaction Control Language)
     - Creación de bases de datos en MySQL
     - Tipos de datos en MySQL
+
+## 3. Operaciones Básicas con SQL
+    - Creación de tablas (CREATE TABLE)
+    - Inserción de datos (INSERT INTO)
+    - Consulta de datos (SELECT)
+    - Filtrado de datos con WHERE
+    - Actualización de datos ('UPDATE')
+    - Eliminación de datos (DELETE)
