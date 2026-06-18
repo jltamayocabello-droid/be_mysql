@@ -20,3 +20,27 @@
         - COMMIT
         - ROLLBACK
         - SAVEPOINT
+
+## Tipos de Datos en MySQL
+
+- Los datos se almacenan en diferentes formatos segun su tipo: númerico, cadena, fecha y hora.
+
+    1. Tipos de datos númericos
+        - TINYINT: Entero y pequeño - 128 127
+        - SMALLINT: Entero Corto -32768 23767
+        - MEDIUMINT : Entero Mediano
+        - INT INTEGER: Entero estandar -2,147,483,648 a 2,147,483,647
+        - BIGINT: Entero grande
+        - DECIMAL NUMERIC: Números decimales con precisión definida
+        - FLOAT: números de punto flotante
+        - DOUBLE: Números de punto flotante de mayor precisión
+    2. Tipos de datos de cadena
+        - CHAR: Cadena de Longitud fija 1 a 255
+        - TEXT: Texto de tamaño grande
+        - BLOB: Datos binarios (imagenes, archivos, etc)
+    3. Tipos de datos fecha y hora
+        - DATE: Solo fechas YYYY-MM-DD
+        - DATETIME: fecha y hora YYYY-MM-DD HH:MM:SS
+        - TIMESTAMP: Marca de tiempo - registrar eventos
+        - TIME: Solo hora HH:MM:SS
+        - YEAR: Solo año YYYY 1985
