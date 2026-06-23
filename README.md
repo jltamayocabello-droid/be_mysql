@@ -28,7 +28,18 @@ Práctica en MySQL parte del curso Backend Developer
 
 ## 4. Operadores y Funciones en SQL
     - Operadores aritméticos y lógicos ( =, >, <, >=, <=, AND, OR, NOT)
-    - Operadores de comparación ( LIKE, BETWEEN, IN, IS NULL)
+    - Operadores de comparación (LIKE, BETWEEN, IN, IS NULL)
     - Funciones de agregación ( COUNT(), SUM(), AVG(), MAX(), MIN() )
     - Funciones de fecha y hora ( NOW(), CURDATE(), DATE_FORMAT() )
     - Funciones de texto (CONCAT(), SUBSTRING(), LENGTH(), UPPER(), LOWER() )
+
+## 5. Consultas Avanzadas
+    - Uso de GROUP BY y HAVING
+    - Uso de ORDER BY
+    - Uso de LIMIT y OFFSET
+    - Subconsultas (SUBQUERY)
+    - Uniones entre tablas (JOIN)
+        - INNER JOIN
+        - LEFT JOIN
+        - RIGHT JOIN
+        - FULL JOIN (No soportado en MySQL, alternativas con UNION)
