@@ -43,3 +43,10 @@ Práctica en MySQL parte del curso Backend Developer
         - LEFT JOIN
         - RIGHT JOIN
         - FULL JOIN (No soportado en MySQL, alternativas con UNION)
+
+## 6. Índices y Optimización de Consultas
+    - Creación y uso de indices (INDEX, UNIQUE INDEX)
+    - Indices compuestos
+    - Explicación de EXPLAIN para optimización
+    - Uso de ANALIZE TABLE
+    - Estrategias de Optimización de consultas
