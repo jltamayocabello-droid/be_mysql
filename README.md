@@ -1,0 +1,1 @@
+## Práctica en MySQL parte del curso Backend Developer
