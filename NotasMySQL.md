@@ -44,3 +44,20 @@
         - TIMESTAMP: Marca de tiempo - registrar eventos
         - TIME: Solo hora HH:MM:SS
         - YEAR: Solo año YYYY 1985
+
+## Concepto de transacción
+
+    - Una transacción es un conjunto de operaciones que se ejecutan como una unidad indivisibles.
+    - Datos integros y coherentes.
+
+    - Propiedades:
+        - Atomicidad: Todas o ninguna se ejecutan.
+        - Consistencia: la base de datos pasa de un estado valido a otro.
+        - Isolamiento: una transacción no afecta a otra hasta que se confirma.
+        - Durabilidad: los cambios permanecen.
+        
+    Ejemplo: Transferencia bancaria de $1000
+        1. Se resta el dinero de la cuenta A: -1000
+        2. Se suma el dinero en la cuenta B: + 1000
+        3. Si una operación falla se revierte todo (rollback)
+
