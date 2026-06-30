@@ -50,3 +50,12 @@ Práctica en MySQL parte del curso Backend Developer
     - Explicación de EXPLAIN para optimización
     - Uso de ANALIZE TABLE
     - Estrategias de Optimización de consultas
+
+## 7. Vistas y Procedimientos Almacenados
+    - Creación y uso de vistas ( CREATE VIEW )
+    - Modificación y eliminación de vistas ( ALTER VIEW, DROP VIEW )
+    - Procedimientos almacenados ( CREATE PROCEDURE )
+    - Uso de variables y parámetros en procedimientos
+    - Llamado de procedimientos almacenados ( CALL )
+
+    
