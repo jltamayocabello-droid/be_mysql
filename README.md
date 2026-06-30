@@ -69,3 +69,10 @@ Práctica en MySQL parte del curso Backend Developer
         - AFTER UPDATE
         - BEFORE DELETE
         - AFTER DELETE
+
+## 9. Gestión de Transacciones
+    - Concepto de transacción
+    - Uso de STAR TRANSACTION
+    - Uso de COMMIT y ROLLBACK
+    - Niveles de aislamiento de transacciones
+    - Manejo de bloqueos ( LOCK TABLES, UNLOCK TABLES)
