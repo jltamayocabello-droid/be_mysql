@@ -58,7 +58,7 @@ Práctica en MySQL parte del curso Backend Developer
     - Uso de variables y parámetros en procedimientos
     - Llamado de procedimientos almacenados ( CALL )
 
-## 8. Funciones y Triggers en MySQL
+## 8. Funciones y Triggers
     - Creación y uso de funciones ( CREATE FUNCTION)
     - Uso de RETURNS en funcinoes
     - Creación de triggers ( CREATE TRIGGER )
@@ -68,4 +68,4 @@ Práctica en MySQL parte del curso Backend Developer
         - BEFORE UPDATE
         - AFTER UPDATE
         - BEFORE DELETE
-        - AFTER DELET
+        - AFTER DELETE
