@@ -76,3 +76,12 @@ Práctica en MySQL parte del curso Backend Developer
     - Uso de COMMIT y ROLLBACK
     - Niveles de aislamiento de transacciones
     - Manejo de bloqueos ( LOCK TABLES, UNLOCK TABLES)
+
+## 10. Seguridad y Administración
+    - Creación de usuarios en MySQL ( CREATE USER )
+    - Gestión de permisos con GRANT y REVOKE
+    - Cambio de contraseñas de usuarios ( ALTER USER )
+    - Copias de seguridad y restauración ( mysqldump, SOURCE )
+    - Monitoreo y logs en MySQL
+
+    
