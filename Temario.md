@@ -1,5 +1,3 @@
-Práctica en MySQL parte del curso Backend Developer
-
 # Contenido
 
 ## 1. Introducción a las bases de datos y MySQL
@@ -84,4 +82,3 @@ Práctica en MySQL parte del curso Backend Developer
     - Copias de seguridad y restauración ( mysqldump, SOURCE )
     - Monitoreo y logs en MySQL
 
-    
